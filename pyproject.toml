@@ -1,0 +1,12 @@
+
+[project]
+name = "dcf-from-link"
+version = "0.1.0"
+description = "Turn a company URL/ticker into a DCF valuation with clean outputs"
+authors = [{name="Your Name"}]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
